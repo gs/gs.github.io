@@ -1,0 +1,52 @@
+{% extends "layouts/base.njk" %}
+{% block content %}
+  <main class="container py-5" style="padding-top: 6rem !important;">
+    <section class="text-center mb-5">
+      <h1 class="display-4 fw-bold">Blog</h1>
+      <p class="lead text-muted">Insights, ideas, and updates from Grzegorz Smajdor</p>
+    </section>
+    
+    <!-- Categories -->
+    <div class="row mb-4">
+      <div class="col-12">
+        <div class="d-flex justify-content-center flex-wrap gap-2">
+          <a href="#" class="btn btn-sm btn-outline-dark active">All Posts</a>
+          <a href="#" class="btn btn-sm btn-outline-dark">Ruby on Rails</a>
+          <a href="#" class="btn btn-sm btn-outline-dark">Development</a>
+          <a href="#" class="btn btn-sm btn-outline-dark">Personal</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row g-4">
+    {% for post in collections.blogPosts | reverse %}
+      <div class="col-md-6 col-lg-4 mb-4">
+        <div class="card h-100 shadow-sm blog-preview-card border-0">
+          <div class="card-body">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+              <span class="badge bg-dark">Development</span>
+              <small class="text-muted">{{ post.date | date_ymd }}</small>
+            </div>
+            <h4 class="card-title">{{ post.data.title }}</h4>
+            <p class="card-text text-muted">{{ post.data.description or post.templateContent | striptags | truncate(100, true, '...') }}</p>
+          </div>
+          <div class="card-footer bg-transparent border-0">
+            <a href="{{ post.url }}" class="btn btn-link text-dark p-0">Read Article <i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </main>
+  <style>
+    .blog-preview-card { transition: transform 0.3s, box-shadow 0.3s; }
+    .blog-preview-card:hover { 
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    }
+    .badge {
+      font-weight: 500;
+      padding: 0.35em 0.65em;
+    }
+  </style>
+{% endblock %}

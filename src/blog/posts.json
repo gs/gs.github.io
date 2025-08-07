@@ -1,0 +1,5 @@
+{
+  "_11tyComputed": {
+    "permalink": "/blog/{{ title | slug }}/index.html"
+  }
+}
