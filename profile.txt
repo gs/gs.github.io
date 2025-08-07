@@ -1,0 +1,123 @@
+Contact
+grzegorz.smajdor@gmail.com
+www.linkedin.com/in/
+grzegorzsmajdor (LinkedIn)
+grzegorz-smajdor.com (Personal)
+github.com/gs/watircuke (Other)
+github.com/maltize/sublime-text-2-
+ruby-tests (Other)
+Top Skills
+Training
+Engineering
+Mentoring
+Languages
+Polish (Native or Bilingual)
+English (Full Professional)
+German (Limited Working)
+Certifications
+Co-Active Coaching Fundamentals
+Grzegorz Smajdor
+Co-Founder / Mentor / Software Developer
+Greater Hamburg Area
+Summary
+Love to build great products and deliver value to the market.
+Experience
+Yelp
+Software Engineer
+November 2012 - Present (12 years 9 months)
+Hamburg Area, Germany
+- Lead many high scalable projects, from design to delivery.
+- Extending existing products and optimise their performance to fit the
+Enterprise businesses
+- Experienced in working with distributed teams across different time zones.
+- Experienced in building and designing RESTful services.
+- Worked on batches, processes, queues.
+- Mentoring new hires as well as experienced engineers.
+- Pushmaster deputy - responsible for deploying new code requests (new
+changes) to production
+- Relenge deputy - responsible for set repositories, tools for developing new
+services -
+deploying new services, changing configuration.
+- i18n deputy - responsible for translations workflow, extending localisations
+internal tools
+- Building real time dashboards / metrics in Splunk
+- Building new alerts and views for running batches / infrastructure / systems in
+SignalFx
+- Code reviews for other developers
+Deliverists.io
+Co-Founder & CTO
+July 2022 - Present (3 years 1 month)
+Custom software development agency.
+Page 1 of 4
+QYPE Gmbh
+Lead of Automation Tests and Ruby on Rails Developer
+July 2010 - November 2012 (2 years 5 months)
+Picking up Rails by passion and as a self learner, built an Automation Testing
+Tool(https://github.com/gs/watircukefm) that allowed me to become a QA
+Automation Lead and got me a job in an amazing startup that later was
+acquired and got me the opportunity to work for a company from California.
+Created Framework for Automate Web Testing (Cucumber + WebDriver +
+ROR web interface - )
+Own OpenSource Project
+Ruby on Rails Developer
+November 2009 - April 2010 (6 months)
+Designing an application
+Designing and creating a database
+Implementing an application
+Setting up server machine
+JobPartners
+Software Tester
+January 2007 - April 2010 (3 years 4 months)
+Designing and implementing Automated Testing Tool using Ruby and Watir.
+The tool become a standard in the company and was used as an End-to-End
+testing tool during our main product release.
+Other responsibilites:
+Designing and executing tests
+Designing and running Performance Tests
+Creating reports using quality assurance software
+Participate in agile/scrum process
+Maintenance of QA Servers
+Maintenance of Application Management servers
+Running sanity checks on product releases
+Creating Test Cases, Test Scenarios
+Optician “Walczyk”
+Ruby on Rails Developer
+January 2009 - April 2009 (4 months)
+Page 2 of 4
+As passioned Rails Engineer, build a product tailed to the customer needs.
+Close work directly with client, direct communication and fully responsible for
+design of UI,
+design of API and delivery the product to the customer.
+PETERPOL
+Ruby on Rails Developer
+January 2008 - December 2008 (1 year)
+Designing an application
+Designing and creating a database
+Implementing an application
+Setting up the server machine
+FH AGA
+Ruby on Rails Developer
+June 2007 - October 2007 (5 months)
+Designing an application
+Designing and creating a database
+Implementing an application
+Setting up the server machine
+BenQ Poland Sp. z o. o.
+UMTS and Customization specialist
+2006 - 2007 (1 year)
+Kwiaciarnia AGA
+Flower supplier and PHP developer
+February 1995 - October 2005 (10 years 9 months)
+- deliver flowers
+- buying supplies
+- developing www.kwiaciarnia-aga.pl in PHP
+Education
+Wyższa Szkoła Biznesu - National Louis University w Nowym Sączu
+Post Masters Degree Studies, Programming in Microsoft Visual
+Studio · (2009 - 2010)
+DePaul University
+Master of Science, Computer Science · (2003 - 2005)
+Page 3 of 4
+Wyższa Szkoła Biznesu - National Louis University w Nowym Sączu
+Master of Science, Computer Science · (2000 - 2005)
+Page 4 of 4
